@@ -1,1 +1,1 @@
-# Epilepsy
+# Epileptic Seizure Detection
